@@ -15,4 +15,5 @@ end
 arr << lownum
 i += 1 
 end
+arr
 end
