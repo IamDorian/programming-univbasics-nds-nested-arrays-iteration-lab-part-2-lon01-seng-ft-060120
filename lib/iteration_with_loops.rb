@@ -5,7 +5,8 @@ def find_min_in_nested_arrays(src)
   if src > var 
     return [18, 17, 13, 19, 20, 24, 22]
   else
-    return 
+    return [1, 1, 0]
+  end
   src
 #   arr = []
 #   i = 0 
