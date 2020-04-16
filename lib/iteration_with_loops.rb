@@ -7,14 +7,14 @@ def find_min_in_nested_arrays(src)
   row_index = 0 
   while row_index < src.count
   element_index = 0 
-  lownum = ""
-#   while element_index < src[row_index].count
-#   # if src[i][index].to_i > lownum.to_i
-#   #   lownum = src[i][index]
-#   end
-#   element_index += 1 
+  lownum = 100
+  while element_index < src[row_index].count
+  # if src[i][index].to_i > lownum.to_i
+  #   lownum = src[i][index]
+  end
+  element_index += 1 
   
-# end
+end
 arr << lownum
 row_index += 1 
 end
