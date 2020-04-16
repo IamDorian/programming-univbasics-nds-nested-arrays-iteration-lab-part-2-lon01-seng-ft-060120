@@ -12,7 +12,7 @@ def find_min_in_nested_arrays(src)
 #   # if src[i][index].to_i > lownum.to_i
 #   #   lownum = src[i][index]
 #   end
-#   index += 1 
+#   element_index += 1 
   
 # end
 arr << lownum
